@@ -33,7 +33,7 @@ Hi! I’m Nafis, a passionate developer who loves to explore new technologies an
 
 ### 🌐 **Find Me Online**
 
-- [Portfolio](https://yourportfolio.com)
+- [Portfolio](https://nafis-ul-alam-portfolio.netlify.app/)
 - [Twitter](https://x.com/nafiswolfalam)
 
 ---
@@ -42,6 +42,6 @@ Hi! I’m Nafis, a passionate developer who loves to explore new technologies an
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NafisUlAlam&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NafisUlAlam&theme=radical" alt="GitHub Streak">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafisUlAlam&layout=compact&theme=radical" alt="Top Languages">
 </div>
