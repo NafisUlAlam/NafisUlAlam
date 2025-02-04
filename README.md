@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🌱 Currently learning Next.js.<br>- ❤ Love To Do Problem Solving on codeforces.<br>- 🏓 Love to play table-tennis</p>
+<p align="center">- 🌱 Currently learning Next.js.<br>- ❤ Love To Do Problem Solving on codeforces.<br>- 🏓 Love to play table-tennis</p>
 
 ###
 
@@ -58,7 +58,9 @@
   <a href="https://x.com/nafiswolfalam" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-- [Portfolio](https://nafis-ul-alam-portfolio.netlify.app/)
+  <a href="https://nafis-ul-alam-portfolio.netlify.app" target="_blank"> 
+  <img src="https://img.shields.io/badge/portfolio" height="35" alt="twitter logo"  /></a>
+
 </div>
 
 
