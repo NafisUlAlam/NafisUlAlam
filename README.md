@@ -3,7 +3,7 @@
 </div>
 
 # 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=It's+me%2C+Nafis+;Tech+Enthusiast,FullStack+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=It's+me%2C+Nafis+;Tech+Enthusiast,FullStack+Web+Dev)](https://git.io/typing-svg)
 ###
 
 <h2 align="center">📝 About Me</h2>
@@ -58,9 +58,9 @@
   <a href="https://x.com/nafiswolfalam" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+- [Portfolio](https://nafis-ul-alam-portfolio.netlify.app/)
 </div>
 
-- [Portfolio](https://nafis-ul-alam-portfolio.netlify.app/)
 
 ###
 
