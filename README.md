@@ -4,23 +4,8 @@
 
 # 💻 **Nafis**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Its+me%2C+Nafis+;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=It's+me%2C+Nafis+;Tech+Enthusiast,FullStack+Dev)](https://git.io/typing-svg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-###
-
-<h3 align="center">Web Developer</h3>
 
 ###
 
@@ -73,7 +58,7 @@
   <a href="https://www.linkedin.com/in/nafisulalam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="@nafiswolfalam" target="_blank">
+  <a href="https://x.com/nafiswolfalam" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
