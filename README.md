@@ -1,8 +1,8 @@
+![Banner Image](https://i.ibb.co.com/TD4jdhK5/Screenshot-2025-02-04-213903.png)
 # 💻 **Nafis**
 
-![Banner Image](https://i.ibb.co.com/S5KvRbZ/myImage.png)
 
-### ** Designation**
+### **Designation**
 Web Developer
 
 ---
