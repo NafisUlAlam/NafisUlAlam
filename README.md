@@ -1,7 +1,7 @@
 ![Banner Image](https://i.ibb.co.com/TD4jdhK5/Screenshot-2025-02-04-213903.png)
 # 💻 **Nafis**
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Its+me%2C+Nafis+;Tech+Enthusiast)](https://git.io/typing-svg)
 ### **Designation**
 Web Developer
 
