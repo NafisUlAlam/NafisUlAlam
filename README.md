@@ -56,8 +56,8 @@
   <a href="https://x.com/nafiswolfalam" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://nafis-ul-alam-portfolio.netlify.app" target="_blank"> 
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="35" alt="portfolio logo"  /></a>
+<!--   <a href="https://nafis-ul-alam-portfolio.netlify.app" target="_blank"> 
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="35" alt="portfolio logo"  /></a> -->
   <a href="https://codeforces.com/profile/NafisAlam" target="_blank"> 
   <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height="35" alt="codeforces logo"  /></a>
 
